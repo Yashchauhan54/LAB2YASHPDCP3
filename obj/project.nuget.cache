@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dIGeUkDZPTg=",
+  "dgSpecHash": "AnQp1elUfiI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\OneDrive\\Desktop\\Programing  paradigms\\yashF#\\lab2yashf#\\lab2yashf#.fsproj",
+  "projectFilePath": "C:\\Users\\Dell\\OneDrive\\Desktop\\Programing  paradigms\\yashF#\\test2yashF#\\test2yashf#.fsproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\fsharp.core\\8.0.301\\fsharp.core.8.0.301.nupkg.sha512"
   ],

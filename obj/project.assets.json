@@ -113,11 +113,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\OneDrive\\Desktop\\Programing  paradigms\\yashF#\\lab2yashf#\\lab2yashf#.fsproj",
-      "projectName": "lab2yashf#",
-      "projectPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\Programing  paradigms\\yashF#\\lab2yashf#\\lab2yashf#.fsproj",
+      "projectUniqueName": "C:\\Users\\Dell\\OneDrive\\Desktop\\Programing  paradigms\\yashF#\\test2yashF#\\test2yashf#.fsproj",
+      "projectName": "test2yashf#",
+      "projectPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\Programing  paradigms\\yashF#\\test2yashF#\\test2yashf#.fsproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\Programing  paradigms\\yashF#\\lab2yashf#\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\Programing  paradigms\\yashF#\\test2yashF#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
